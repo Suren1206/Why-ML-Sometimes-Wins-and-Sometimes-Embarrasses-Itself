@@ -45,13 +45,13 @@ There were lot of lessons learnt during the implementation of the project which 
 
 # 8. Artifacts
 Jupyter Notebooks
-    ### • Walmart_Arima.ipynb
-    ### • Walmart_Linear Model.ipynb
-    ### • Walmart_ML Model.ipynb
-    ### • Walmart_ML_Illusions.ipynb
-    ### • Walmart_Calnder and Exhogenous features.ipynb
+### • Walmart_Arima.ipynb
+### • Walmart_Linear Model.ipynb
+### • Walmart_ML Model.ipynb
+### • Walmart_ML_Illusions.ipynb
+### • Walmart_Calnder and Exhogenous features.ipynb
 Supporting Documents (optional links)
-    ### • README_First.md
-    ### • README.md
-    ### • Lessons Learnt.md
-    ### • Intutitive Learnings.md
+### • README_First.md
+### • README.md
+### • Lessons Learnt.md
+### • Intutitive Learnings.md
