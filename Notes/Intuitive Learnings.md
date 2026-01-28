@@ -1,6 +1,6 @@
-#Learning through Intuitions
+Learning through Intuitions
 
-##It is always complained that LLMs hallucinate. I was enriched with the positive side of this aspect benefiting with cream of learning through the rich visualizations and effective intuitions that ChatGPT provided me during. As this was a fast track project for me, the examples provided not just helped me to a quick decision on next steps but also made the project journey a pleasurable one. These intuitions emerged through extended exploration and discussion during the project.
+It is always complained that LLMs hallucinate. I was enriched with the positive side of this aspect benefiting with cream of learning through the rich visualizations and effective intuitions that ChatGPT provided me during. As this was a fast track project for me, the examples provided not just helped me to a quick decision on next steps but also made the project journey a pleasurable one. These intuitions emerged through extended exploration and discussion during the project.
 <<The last one below is mine when I was deep into the event indicators if they provide any predictability. When I mentioned this, ChatGPT validated that this is a valid analogy to explain central tendancy (median) and dispersion (standard deviation>>
 
 Sharing few of the intuitions which were contextual but quite self explanatory
